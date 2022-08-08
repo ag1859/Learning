@@ -1,2 +1,2 @@
 # Project_1
-First GitHub Project
+Archive of personal coding practice and learning.
